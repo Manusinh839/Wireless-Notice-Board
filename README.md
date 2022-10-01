@@ -10,4 +10,3 @@ Hardware: Bluetooth Module HC-05 x1
 Software: Arduino IDE Software
 Amndroid App link:- https://play.google.com/store/apps/de...
           
-To know more about this Project you can watch this Video :- https://youtu.be/7TKmt7SyXgA
